@@ -6,9 +6,7 @@ This software just displays "Hello World" to the user.
 
 This is the first step to creating my own software portfolio that I can add to in the future.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Sj3DqCKuxaw)
 
 # Development Environment
 
